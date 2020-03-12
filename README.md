@@ -1,0 +1,1 @@
+### Simple Similar Passwords Analyzer
