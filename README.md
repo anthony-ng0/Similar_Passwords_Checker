@@ -1,4 +1,4 @@
-### Simple Similar Passwords Analyzer
+# Simple Similar Passwords Analyzer
 
-# Usage:
+### Usage:
 - Compares your inputted password with the passwords from the 1000 most common passwords file. 
